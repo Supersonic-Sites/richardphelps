@@ -1,10 +1,8 @@
 ---
 title: Privacy Policy
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
-companyname: Supersonic Sites
-companyemail: hello@supersonicsites.com
+description: Privacy policy page of RichardPhelps.com
+companyname: Richard Phelps
+companyemail: info@languageandluxury.com
 layout: privacy_policy
 ---
 

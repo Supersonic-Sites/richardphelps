@@ -22,28 +22,23 @@ weight = "1"
 
 [[menu.main]]
 name = "About"
-url = "about/"
+url = "#about/"
 weight = "2"
 
 [[menu.main]]
-name = "Gallery"
-url = "gallery/"
+name = "The Book"
+url = "#the-book/"
 weight = "3"
 
 [[menu.main]]
-name = "Services"
-url = "services/"
+name = "Free Chapter"
+url = "#free-chapter/"
 weight = "4"
 
 [[menu.main]]
-name = "Contact"
-url = "contact/"
+name = "Purchase"
+url = "#purchase/"
 weight = "5"
-
-[[menu.main]]
-name = "Appointment"
-url = "/"
-weight = "6"
 
 [params]
 gtm = "#"

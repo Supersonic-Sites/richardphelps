@@ -1,9 +1,6 @@
 {{ define "main" }}
+<section class="bg-gradient-to-r from-primary to-secondary h-96">
 
-{{ range $component := .Params.Components }}
-
-  {{ partial ( printf "components/%s.html" $component.type ) $component }}
-  
-{{ end }}
+</section>
 
 {{ end }}
