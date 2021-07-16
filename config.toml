@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://richardphelps.netlify.app/"
 title = "Supersonic"
 description = "Lorem Ipsum"
 languageCode = "en-ca"
