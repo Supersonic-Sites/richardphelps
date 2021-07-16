@@ -22,22 +22,22 @@ weight = "1"
 
 [[menu.main]]
 name = "About"
-url = "/#about/"
+url = "/#about"
 weight = "2"
 
 [[menu.main]]
 name = "The Book"
-url = "#the-book/"
+url = "#the-book"
 weight = "3"
 
 [[menu.main]]
 name = "Free Chapter"
-url = "#free-chapter/"
+url = "#free-chapter"
 weight = "4"
 
 [[menu.main]]
 name = "Purchase"
-url = "#purchase/"
+url = "#purchase"
 weight = "5"
 
 [params]
