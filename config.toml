@@ -1,6 +1,6 @@
 baseURL = "https://richardphelps.netlify.app/"
 title = "Supersonic"
-description = "Lorem Ipsum"
+description = "Train Wreck - Richard Phelps"
 languageCode = "en-ca"
 DefaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
