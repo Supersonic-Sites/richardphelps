@@ -29,6 +29,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: [
+          'Montserrat',
           'system-ui',
           '-apple-system',
           'BlinkMacSystemFont',
@@ -47,7 +48,7 @@ module.exports = {
       colors: {
         'primary': '#fdcd67',
         'secondary': '#ff5740',
-        
+        'ocre': '#e3e3e3',
       }
     },
     fill: theme => ({

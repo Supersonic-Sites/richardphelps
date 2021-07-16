@@ -3,7 +3,7 @@
     <nav class="relative mx-auto flex items-center justify-between" aria-label="Global">
       <div class="flex items-center justify-between w-full 2xl:w-auto py-2 pl-2 md:pl-0">
         <div class="flex items-center">
-        <a class="md:ml-4 font-serif border-2 text-2xl border-black p-6" href="{{ .Site.BaseURL | absURL }}"> Richard Phelps
+        <a class="ml-4 font-sans border-2 text-2xl border-black p-6" href="{{ .Site.BaseURL | absURL }}"> Richard Phelps
         </a>
         
       </div>
@@ -28,7 +28,7 @@
           <ul id="desktop_menu" class="flex">
               {{ range .Site.Menus.main -}}
               <li class="py-12 px-4  transition duration-500 border-b-4 border-transparent hover:border-primary hover:text-secondary active:text-primary">        
-              <a class="text-xl font-serif" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+              <a class="text-xl font-sans" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
             </li>
               {{ end }}
 
@@ -51,9 +51,9 @@
 
       <div 
       class="rounded-sm shadow-lg bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
-        <div class="p-2 flex items-start justify-between">
+        <div class="py-2 flex items-start justify-between">
           <div class="flex flex-row items-center">
-            <a class="md:ml-4 font-serif border-2 text-2xl border-black p-6" href="{{ .Site.BaseURL | absURL }}"> Richard Phelps
+            <a class="ml-4 font-sans border-2 text-2xl border-black p-6" href="{{ .Site.BaseURL | absURL }}"> Richard Phelps
             </a>
         
           </div>
@@ -79,7 +79,7 @@
               <ul class="flex flex-col items-center justify-center space-y-2">
                   {{ range .Site.Menus.main -}}
                   <li class="py-2 px-4 transition duration-500 border-b-4 border-transparent hover:border-secondary hover:text-secondary focus:text-primary">        
-                  <a class="text-base font-serif" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                  <a class="text-base font-sans" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 </li>
                   {{ end }}
                   
