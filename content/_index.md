@@ -3,7 +3,7 @@ title: Train Wreck - A Book By Richard Phelps
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
   aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
   aliquam at ut neque.
-heroimg: /img/ebook-cover.png
+heroimg: img/ebook-cover.png
 hero_title: Train Wreck
 hero_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in
   felis id mi blandit interdum. Mauris tempor ante vitae eros aliquet blandit
@@ -14,7 +14,7 @@ about_desc: Richard Phelps - writer, historian, and activist is the author of
   place, pleasure, politics, hope, and memory.ut aliquip ex ea commodo consequat
   duis aute irure dolorion reprehenderit intelorius voluptate velit esse cillum
   dolore.
-aboutimg: /img/about-richard-phelps.png
+aboutimg: img/about-richard-phelps.png
 book_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in
   felis id mi blandit interdum. Mauris tempor ante vitae eros aliquet blandit
   non vitae tortor.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -31,6 +31,6 @@ free_chapter_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Mauris tempor ante vitae eros aliquet blandit non vitae tortor.Lorem ipsum
   dolor sit amet, consectetur adipiscing elit. Proin in felis id mi blandit
   interdum.
-free_chapter_img: /img/train-wreck-on-coputer.jpg
+free_chapter_img: img/train-wreck-on-coputer.jpg
 free_chapter_cta: Get Free Chapter One
 ---
