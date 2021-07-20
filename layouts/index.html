@@ -5,11 +5,11 @@
             <div class="col-span-12 md:col-span-6 pb-20 md:py-0 md:-mb-20 order-2 md:order-1">
                 <img class="lazyload w-full mb-6 md:mb-0" alt="Train Wreck - A Book by Richard Phelps" data-aos="fade"
                     data-aos-duration="800" width="586px" height="765px" data-srcset="
-                        {{ $.Site.BaseURL }}img/book.png?nf_resize=smartcrop&w=400 400w,
-                        {{ $.Site.BaseURL }}img/book.png?nf_resize=smartcrop&w=586 586w,
-                        {{ $.Site.BaseURL }}img/book.png?nf_resize=smartcrop&w=728 728w"
+                        {{ $.Site.BaseURL }}{{ .Params.heroimg }}?nf_resize=smartcrop&w=400 400w,
+                        {{ $.Site.BaseURL }}{{ .Params.heroimg }}?nf_resize=smartcrop&w=586 586w,
+                        {{ $.Site.BaseURL }}{{ .Params.heroimg }}?nf_resize=smartcrop&w=728 728w"
                     sizes="(max-width: 468px) 400px, 586px"
-                    data-src="{{ $.Site.BaseURL }}img/book.png?nf_resize=smartcrop&w=586" />
+                    data-src="{{ $.Site.BaseURL }}{{ .Params.heroimg }}?nf_resize=smartcrop&w=586" />
             </div>
             <div class="col-span-12 md:col-span-6 flex flex-col justify-center order-1 md:order-2">
                 <div class="inline-block">
@@ -18,8 +18,6 @@
                     <h1 class="text-7xl font-extrabold text-white my-4">{{ .Params.hero_title }}</h1>
                     <p class="text-white mb-8">{{ .Params.hero_desc }}</p>
                     <a href="#free_chapter" class="btn_primary">{{ .Params.hero_cta }}</a>
-
-                    <img src="{{ $.Site.BaseURL }}img/supersonicsites-1png" alt="">
                     </div>
                 </div>
             </div>
@@ -40,11 +38,11 @@
                 <div class="col-span-12 md:col-span-6 flex flex-col items-end">
                     <img class="lazyload mb-6 md:mb-0 w-full md:w-3/4" alt="Train Wreck - A Book by Richard Phelps"
                         data-aos="fade" data-aos-duration="800" width="474px" height="526px" data-srcset="
-                {{ $.Site.BaseURL }}img/RichardPhelps-Headshot.png?nf_resize=smartcrop&w=374 374w,
-                {{ $.Site.BaseURL }}img/RichardPhelps-Headshot.png?nf_resize=smartcrop&w=474 474w,
-                {{ $.Site.BaseURL }}img/RichardPhelps-Headshot.png?nf_resize=smartcrop&w=574 574w"
+                        {{ $.Site.BaseURL }}{{ .Params.aboutimg }}?nf_resize=smartcrop&w=374 374w,
+                        {{ $.Site.BaseURL }}{{ .Params.aboutimg }}?nf_resize=smartcrop&w=474 474w,
+                        {{ $.Site.BaseURL }}{{ .Params.aboutimg }}?nf_resize=smartcrop&w=574 574w"
                         sizes="(max-width: 468px) 400px, 474px"
-                        data-src="{{ $.Site.BaseURL }}img/RichardPhelps-Headshot.png?nf_resize=smartcrop&w=474" />
+                        data-src="{{ $.Site.BaseURL }}{{ .Params.aboutimg }}?nf_resize=smartcrop&w=474" />
                 </div>
             </div>
         </div>
