@@ -10,7 +10,7 @@
             <div class="col-span-12 md:col-span-6 flex flex-col justify-center order-1 md:order-2">
                 <div class="inline-block">
                     <div class="flex flex-col items-center text-center py-20 md:items-start md:text-left">
-                    <span class="text-xs p-2 tracking-wider bg-primary shadow-md rounded-sm">Amazon Best Seller</span>
+                    <span class="text-xs p-2 tracking-wider bg-primary shadow-md rounded-sm">Amazon Top Seller</span>
                     <h1 class="text-7xl font-extrabold text-white my-4">{{ .Params.hero_title }}</h1>
                     <p class="text-white mb-8">{{ .Params.hero_desc }}</p>
                     <a href="#free_chapter" class="btn_primary">{{ .Params.hero_cta }}</a>
@@ -91,4 +91,60 @@
 
     </div>
 </section>
+<section class="mt-5">
+    <div class="max-w-5xl mx-auto px-4 lg:px-0 py-20 md:pt-48">
+        <h2 class="text-center text-7xl font-bold">Reach Out To The Author</h2>
+        <p class="text-center my-4 pb-12">If you are interested in having me speak at your event or want to ask me a question, please use this form below.</p>
+        <div class="grid grid-cols-12">
+        
+          <div class="col-span-12 lg:col-span-8 lg:col-start-3 w-full shadow-md p-2 md:p-12 bg-ocre">
+  
+            <form id="contact-form" method="POST" action="{{ $.Site.Params.usebasin }}"
+            class="" role="form">
+  
+            <div class="grid grid-cols-12 md:gap-6">
+            <div class="field col-span-12 lg:col-span-6">
+  
+              
+              <label for="form_name" class="font-bold text-black mb-3">Full Name *</label>
+              
+  
+              <div class="my-2">
+                <input id="form_name" class="border py-2 px-3 text-grey-darkest w-full" placeholder="e.g Alex Smith" type="text" name="Full Name"
+                  required="required" data-error="Firstname is required." />
+              </div>
+            </div>
+      
+            <div class="field col-span-12 lg:col-span-6">
+              
+              <label class="font-bold mb-3 text-black" for="email">Email *</label>
+              
+              <div class="my-2">
+                <input id="email" name="email" class="border py-2 px-3 text-grey-darkest w-full" type="email" placeholder="e.g. alexsmith@gmail.com" required="required"
+                  data-error="Valid email is required." />
+              </div>
+            </div>
+    
+  
+            <div class="field col-span-12">
+              
+              <label for="form_message" class="font-bold mb-3 text-black">Message *</label>
+              
+              <div class="my-2">
+              <textarea id="form_message" name="message" class="border py-2 px-3 text-grey-darkest w-full" rows="4" required
+                data-error="Please,leave us a message."></textarea>
+              </div>
+            </div>
+            </div>
+            <div class="flex justify-center items-center">
+              <input type="submit" class="cursor-pointer transition uppercase duration-500 w-auto mt-5 btn_primary text-base tracking-widest" value="Send">
+            </div>
+          </form>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    </section>
+
 {{ end }}

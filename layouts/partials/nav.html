@@ -1,7 +1,7 @@
 <header class="relative bg-white">
   <div class="relative z-50" x-data="{ isOpen: false }">
     <nav class="relative mx-auto flex items-center justify-between" aria-label="Global">
-      <div class="flex items-center justify-between w-full 2xl:w-auto py-2 pl-2 md:pl-0">
+      <div class="flex items-center justify-between w-full xl:w-auto py-2 pl-2 md:pl-0">
         <div class="flex items-center">
         <a class="ml-4 font-sans border-2 text-2xl border-black p-6" href="{{ .Site.BaseURL | absURL }}"> Richard Phelps
         </a>
@@ -11,7 +11,7 @@
 
         <!-- Mobile Menu Open Button -->
 
-        <div class="mr-2 flex items-center 2xl:hidden">
+        <div class="mr-2 flex items-center xl:hidden">
           <button type="button" @click="isOpen = !isOpen" class="bg-light-blue-800 bg-opacity-0 rounded-md p-2 flex-col justify-center items-center justify-center text-cyan-100 hover:bg-opacity-100 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-white" aria-expanded="false">
             <span class="sr-only">Open main menu</span>
             <!-- Heroicon name: outline/menu -->
@@ -24,10 +24,10 @@
 
         <!-- End of Menu Open Button -->
       </div>
-      <div class="hidden space-x-10 2xl:flex 2xl:ml-10">
+      <div class="hidden space-x-10 xl:flex xl:ml-10">
           <ul id="desktop_menu" class="flex">
               {{ range .Site.Menus.main -}}
-              <li class="py-12 px-4  transition duration-500 border-b-4 border-transparent hover:border-primary hover:text-secondary active:text-primary">        
+              <li class="py-12 px-4 transition duration-500 border-b-4 border-transparent hover:border-primary hover:text-secondary active:text-primary">        
               <a class="text-xl font-sans" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
             </li>
               {{ end }}
@@ -36,7 +36,7 @@
       </div>
     </nav>
 
-    <div class="absolute top-0 inset-x-0 transition transform origin-top 2xl:hidden"
+    <div class="absolute top-0 inset-x-0 transition transform origin-top xl:hidden"
 
     x-show="isOpen"
     x-transition:enter="duration-100 ease-out"
