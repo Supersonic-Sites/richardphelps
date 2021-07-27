@@ -10,7 +10,7 @@
             <div class="col-span-12 md:col-span-6 flex flex-col justify-center order-1 md:order-2">
                 <div class="inline-block">
                     <div class="flex flex-col items-center text-center py-20 md:items-start md:text-left">
-                    <span class="text-xs p-2 tracking-wider bg-primary shadow-md rounded-sm">Amazon Top Seller</span>
+                    <span class="text-xs p-2 tracking-wider bg-yellow-400 shadow-md rounded-sm text-primary">Amazon Top Seller</span>
                     <h1 class="text-7xl font-extrabold text-white my-4">{{ .Params.hero_title }}</h1>
                     <p class="text-white mb-8">{{ .Params.hero_desc }}</p>
                     <a href="#free_chapter" class="btn_primary">{{ .Params.hero_cta }}</a>
@@ -25,7 +25,7 @@
         <div class="max-w-5xl mx-auto px-4 md:px-0">
             <div class="grid grid-cols-12 md:gap-8 lg:gap-12">
                 <div class="col-span-12 md:col-span-6 flex flex-col justify-center items-start">
-                    <h2 class="text-xs p-2 tracking-wider bg-primary shadow-md rounded-sm">About Me</h2>
+                    <h2 class="text-xs p-2 tracking-wider bg-yellow-400 shadow-md rounded-sm text-primary">About Me</h2>
                     <p class="about_styling my-8">{{ .Params.about_desc }}</p>
                     <img src="{{ $.Site.BaseURL }}img/signature.png" alt="Signature of Richard Phelps">
                     <p class="font-bold my-2">Richard Phelps</p>
@@ -53,7 +53,7 @@
             </div>
 
             <div class="col-span-12 md:col-span-6 flex flex-col justify-center items-start">
-                <h2 class="text-xs p-2 tracking-wider bg-primary shadow-md rounded-sm">About The Book</h2>
+                <h2 class="text-xs p-2 tracking-wider bg-yellow-400 shadow-md rounded-sm text-primary">About The Book</h2>
                 <div class="my-4">
                     <p class="about_styling my-8">{{ .Params.book_desc | safeHTML }}</p>
                 </div>
@@ -72,7 +72,7 @@
 
 
             <div class="col-span-12 md:col-span-6 flex flex-col justify-center items-start">
-                <h2 class="text-xs p-2 tracking-wider bg-primary shadow-md rounded-sm">Free Chapter</h2>
+                <h2 class="text-xs p-2 tracking-wider bg-yellow-400 shadow-md rounded-sm text-primary">Free Chapter</h2>
                 <div class="my-4">
                     <p class="about_styling my-8">{{ .Params.free_chapter_desc | safeHTML }}</p>
                     <a href="#free_chapter" class="btn_secondary">{{ .Params.free_chapter_cta }}</a>

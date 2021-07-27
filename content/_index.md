@@ -3,7 +3,7 @@ title: Train Wreck - A Book By Richard Phelps
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
   aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
   aliquam at ut neque.
-heroimg: img/ebook-cover.png
+heroimg: /img/train-wreck-cover.png
 hero_title: Train Wreck
 hero_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in
   felis id mi blandit interdum. Mauris tempor ante vitae eros aliquet blandit
@@ -22,7 +22,7 @@ book_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in
   consectetur adipiscing elit. Proin in felis id mi blandit interdum. Mauris
   tempor ante vitae eros aliquet blandit non vitae tortor.Lorem ipsum dolor sit
   amet, consectetur adipiscing elit. Proin in felis id mi blandit interdum.
-bookimg: /img/train-wreck-on-coputer.jpg
+bookimg: /img/about-the-book.jpg
 free_chapter_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Proin in felis id mi blandit interdum. Mauris tempor ante vitae eros aliquet
   blandit non vitae tortor.Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -31,6 +31,6 @@ free_chapter_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Mauris tempor ante vitae eros aliquet blandit non vitae tortor.Lorem ipsum
   dolor sit amet, consectetur adipiscing elit. Proin in felis id mi blandit
   interdum.
-free_chapter_img: img/train-wreck-on-coputer.jpg
+free_chapter_img: /img/free-chapter-image.jpg
 free_chapter_cta: Get Free Chapter One
 ---
