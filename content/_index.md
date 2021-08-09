@@ -10,8 +10,10 @@ about_desc: >-
   Richard Phelps hails from San Diego, California, and has also lived in Europe,
   Latin America, and Asia. He speaks four foreign languages fluently and is
   proficient in another three. Richard owns a successful luxury language
-  learning travel business www.languageandluxury.com that has operations
-  worldwide and has even been featured in the ROBB Report.
+  learning travel business  <a
+  href="https://www.languageandluxury.com/"><u>languageandluxury.com</u></a>
+
+  hat has operations worldwide and has even been featured in the ROBB Report.
    <br><br>
   He also has a strong business background, having held several executive management roles in both large companies and startups during a successful 20+ year career in telecommunications. Richard holds an M.B.A. from Thunderbird School of International Management.  His first book is a memoir of an amazing life lived on the California Coast in and around the San Diego area.
 aboutimg: img/about-richard-phelps.png
