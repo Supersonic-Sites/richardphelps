@@ -1,44 +1,9 @@
-baseURL = "https://richardphelps.netlify.app/"
-title = "Supersonic"
+title = "Richard Phelps"
 description = "Train Wreck - Richard Phelps"
 languageCode = "en-ca"
+baseURL = "https://richardphelps.netlify.app/"
 DefaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
-
-[sitemap]
-changefreq = "monthly"
-filename = "sitemap.xml"
-
-[build]
-writeStats = true
-enableRobotsTXT = true
-
-[menu]
-
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = "1"
-
-[[menu.main]]
-name = "About"
-url = "/#about"
-weight = "2"
-
-[[menu.main]]
-name = "The Book"
-url = "#the-book"
-weight = "3"
-
-[[menu.main]]
-name = "Free Chapter"
-url = "#free-chapter"
-weight = "4"
-
-[[menu.main]]
-name = "Purchase"
-url = "#purchase"
-weight = "5"
 
 [params]
 gtm = "#"
@@ -82,14 +47,49 @@ hours = "Sun: CLOSED"
 
 [module]
 
-    [[module.mounts]]
-        source = "assets"
-        target = "assets"
+[[module.mounts]]
+source = "assets"
+target = "assets"
 
-    [[module.mounts]]
-        source = "./node_modules/alpinejs/dist/alpine.js"
-        target = "assets/js/alpine.js"
+[[module.mounts]]
+source = "./node_modules/alpinejs/dist/alpine.js"
+target = "assets/js/alpine.js"
 
-    [[module.mounts]]
-        source = "./node_modules/lazysizes/lazysizes.js"
-        target = "assets/js/lazysizes.js"
+[[module.mounts]]
+source = "./node_modules/lazysizes/lazysizes.js"
+target = "assets/js/lazysizes.js"
+
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+
+[build]
+writeStats = true
+enableRobotsTXT = true
+
+[menu]
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = "1"
+
+[[menu.main]]
+name = "About"
+url = "/#about"
+weight = "2"
+
+[[menu.main]]
+name = "The Book"
+url = "#the-book"
+weight = "3"
+
+[[menu.main]]
+name = "Free Chapter"
+url = "#free-chapter"
+weight = "4"
+
+[[menu.main]]
+name = "Purchase"
+url = "#purchase"
+weight = "5"
