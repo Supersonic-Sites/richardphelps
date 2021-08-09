@@ -78,7 +78,7 @@
             <div class="grid grid-cols-12 md:gap-8 lg:gap-12">
                 <div class="col-span-12 md:col-span-6 flex flex-col justify-center items-start">
                     <h2 class="text-xs p-2 tracking-wider bg-yellow-400 shadow-md rounded-sm text-primary">About Me</h2>
-                    <p class="about_styling my-8">{{ .Params.about_desc }}</p>
+                    <p class="about_styling my-8">{{ .Params.about_desc | safeHTML }}</p>
                     <img src="{{ $.Site.BaseURL }}img/signature.png" alt="Signature of Richard Phelps">
                     <p class="font-bold my-2">Richard Phelps</p>
                     <p>Author</p>
