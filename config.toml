@@ -7,9 +7,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [params]
 gtm = "#"
-servicename = "WebDesign"
+servicename = "Author"
 googlemap = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10486.075597019064!2d-125.5296457!3d48.9245577!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x231041e6ea05c1b5!2sSteam%20Train%20Creative!5e0!3m2!1sen!2sca!4v1626282835512!5m2!1sen!2sca"
-sitename = "Supersonic Template"
+sitename = "Train Wreck by Richard Phelps"
 usebasin = "#"
 videoOn = false
 description = "Lorem ipsum"
@@ -21,16 +21,16 @@ city = "Vancouver"
 logo = "/img/supersonicsites-1.png"
 reservation = true
 phone = "+1-888-321-BOOM"
-priceRange = "$$$"
+priceRange = "$"
 region = "BC"
 country = "Canada"
 postalcode = "V5V 3N5"
-type = "WebDesign"
+type = "Author"
 openinghour = "Mo-Sa: 10-6"
 email = "hello@supersonicsites.com"
 address1 = "3622 Main Street"
 address2 = "#"
-address_toggle = true
+address_toggle = false
 
 [params.social]
 facebook = "#"
