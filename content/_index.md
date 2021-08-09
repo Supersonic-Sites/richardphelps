@@ -52,5 +52,5 @@ free_chapter_desc: >
 
   It’s actually an awesome place to live, especially for the weather, which on this mid-February day had been a typical sunny “winter” day, with even more brilliant blue skies than in summer.  
 free_chapter_img: /img/del-mar-beach-sqaure-min.jpg
-free_chapter_cta: Get Free Chapter One
+free_chapter_cta: Get Free Excerpt
 ---
