@@ -27,7 +27,7 @@ book_desc: Most of this story takes place in the communities along the coast
   dream here, or have much of an imagination, because that which you dream or
   imagine is already being played out by somebody in real life. It’s a reality
   show of sorts, of which I have become a part.
-bookimg: /img/about-the-book.jpg
+bookimg: /img/fast-race-horse-square-min.jpg
 free_chapter_desc: >
   "<strong>Match.com</strong> has been good to me, I nearly said out loud, as I
   weaved my way north on Interstate 5 toward Del Mar.  
