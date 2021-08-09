@@ -1,7 +1,7 @@
 title = "Richard Phelps"
 description = "Train Wreck - Richard Phelps"
 languageCode = "en-ca"
-baseURL = "https://richardphelps.netlify.app/"
+baseURL = "https://www.richardphelps.com/"
 DefaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
