@@ -29,24 +29,28 @@ book_desc: Most of this story takes place in the communities along the coast
   show of sorts, of which I have become a part.
 bookimg: /img/about-the-book.jpg
 free_chapter_desc: >
-  "Match.com has been good to me, I nearly said out loud, as I weaved my way
-  north on Interstate 5 toward Del Mar.  
+  "<strong>Match.com</strong> has been good to me, I nearly said out loud, as I
+  weaved my way north on Interstate 5 toward Del Mar.  
 
+  <br>
 
   “The Five,” as it’s called, will take you from the Mexican border crossing at Tijuana, Baja California and San Ysidro, CA all the way north to the Canadian border crossing at Blaine, Washington and Surrey, British Columbia.  Fortunately, my travels were only taking me as far as Del Mar to meet my next Match.com victim.  I realize that “victim” is a crass way to refer to my future soulmate, but I’ve found that a sense of humor goes a long way in the online dating world.
 
+  <br>
 
   There had been disappointments along the way, like the women who’d posted pictures of someone else to reel me in, or those not-so-few who posted pictures of themselves but twenty years younger.
 
+  <br>
 
-  What the hell were they thinking?  
+  <i>What the hell were they thinking?</i>
 
   I’ve heard that men do some quite dishonest things as well, especially when it comes to pictures, age and well, wealth.  This was Southern California after all, where as a man, you flaunted your wealth even if it didn’t exist.  And if you were actually wealthy, it pretty much gave you license to behave however you wanted and to ignore the collateral damage along the way.  
 
+  <br>
 
-  How’s that for cynicism? 
+  <i>How’s that for cynicism?</i>
 
   It’s actually an awesome place to live, especially for the weather, which on this mid-February day had been a typical sunny “winter” day, with even more brilliant blue skies than in summer.  
-free_chapter_img: /img/free-chapter-image.jpg
+free_chapter_img: /img/del-mar-beach-min.jpg
 free_chapter_cta: Get Free Chapter One
 ---
