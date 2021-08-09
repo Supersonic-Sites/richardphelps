@@ -76,12 +76,12 @@ weight = "2"
 
 [[menu.main]]
 name = "The Book"
-url = "#the-book"
+url = "#the_book"
 weight = "3"
 
 [[menu.main]]
-name = "Free Chapter"
-url = "#free-chapter"
+name = "Free Excerpt"
+url = "#free_chapter"
 weight = "4"
 
 [[menu.main]]
