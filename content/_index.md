@@ -4,7 +4,7 @@ description: Richard Phelp - Author of Train Wreck®, a novel about Love and
   Deceit among the Southern California Elite.
 heroimg: /img/trainwreck_cover.webp
 hero_title: Train Wreck
-hero_desc: A novel about Love and Deceit among the Souther California Elite.
+hero_desc: A novel about Love and Deceit among the Southern California Elite.
 hero_cta: Get Free Excerpt
 about_desc: >-
   Richard Phelps hails from San Diego, California, and has also lived in Europe,
