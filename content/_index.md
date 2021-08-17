@@ -1,7 +1,7 @@
 ---
 title: Train Wreck - A Book By Richard Phelps
 description: Richard Phelp - Author of Train Wreck®, a novel about Love and
-  Deceit among the Souther California Elite.
+  Deceit among the Southern California Elite.
 heroimg: /img/trainwreck_cover.webp
 hero_title: Train Wreck
 hero_desc: A novel about Love and Deceit among the Souther California Elite.
