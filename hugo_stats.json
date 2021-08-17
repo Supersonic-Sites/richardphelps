@@ -20,6 +20,7 @@
       "header",
       "hr",
       "html",
+      "i",
       "img",
       "input",
       "label",
@@ -34,9 +35,11 @@
       "script",
       "section",
       "span",
+      "strong",
       "svg",
       "textarea",
       "title",
+      "u",
       "ul"
     ],
     "classes": [
