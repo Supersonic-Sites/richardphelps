@@ -47,7 +47,7 @@ free_chapter_desc: >
 
   I’ve heard that men do some quite dishonest things as well, especially when it comes to pictures, age and well, wealth.  This was Southern California after all, where as a man, you flaunted your wealth even if it didn’t exist.  And if you were actually wealthy, it pretty much gave you license to behave however you wanted and to ignore the collateral damage along the way.  
 
-  <br><br>
+  <br></br>
 
   <i>How’s that for cynicism?</i>
 
