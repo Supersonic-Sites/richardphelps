@@ -18,7 +18,7 @@ about_desc: >-
   <br><br>
 
   He also has a strong business background, having held several executive management roles in both large companies and startups during a successful 20+ year career in telecommunications. Richard holds an M.B.A. from Thunderbird School of International Management.  His first book is a memoir of an amazing life lived on the California Coast in and around the San Diego area.
-aboutimg: img/about-richard-phelps.png
+aboutimg: /img/backcover.jpg
 book_desc: Most of this story takes place in the communities along the coast
   just north of San Diego. “North County,” as it’s called… is known for its
   affluent residents, especially in the beach communities of Del Mar, Solana
