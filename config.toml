@@ -86,5 +86,5 @@ weight = "4"
 
 [[menu.main]]
 name = "Purchase"
-url = "#purchase"
+url = "https://www.amazon.com/dp/B09CRY436Q?ref_=pe_3052080_397514860"
 weight = "5"
