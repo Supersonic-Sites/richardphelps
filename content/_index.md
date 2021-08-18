@@ -28,7 +28,7 @@ book_desc: Most of this story takes place in the communities along the coast
   dream here, or have much of an imagination, because that which you dream or
   imagine is already being played out by somebody in real life. It’s a reality
   show of sorts, of which I have become a part.
-bookimg: /img/backcover.jpg
+bookimg: /img/fast-race-horse-square-min-1-.jpg
 free_chapter_desc: >
   "<strong>Match.com</strong> has been good to me, I nearly said out loud, as I
   weaved my way north on Interstate 5 toward Del Mar.  
@@ -52,6 +52,6 @@ free_chapter_desc: >
   <i>How’s that for cynicism?</i>
 
   It’s actually an awesome place to live, especially for the weather, which on this mid-February day had been a typical sunny “winter” day, with even more brilliant blue skies than in summer.  
-free_chapter_img: /img/del-mar-beach-sqaure-min.jpg
+free_chapter_img: /img/backcover.jpg
 free_chapter_cta: Get Free Excerpt
 ---
