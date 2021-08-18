@@ -18,7 +18,7 @@ about_desc: >-
   <br><br>
 
   He also has a strong business background, having held several executive management roles in both large companies and startups during a successful 20+ year career in telecommunications. Richard holds an M.B.A. from Thunderbird School of International Management.  His first book is a memoir of an amazing life lived on the California Coast in and around the San Diego area.
-aboutimg: /img/backcover.jpg
+aboutimg: /img/RichardPhelps-Headshot.png
 book_desc: Most of this story takes place in the communities along the coast
   just north of San Diego. “North County,” as it’s called… is known for its
   affluent residents, especially in the beach communities of Del Mar, Solana
@@ -28,7 +28,7 @@ book_desc: Most of this story takes place in the communities along the coast
   dream here, or have much of an imagination, because that which you dream or
   imagine is already being played out by somebody in real life. It’s a reality
   show of sorts, of which I have become a part.
-bookimg: /img/fast-race-horse-square-min.jpg
+bookimg: /img/backcover.jpg
 free_chapter_desc: >
   "<strong>Match.com</strong> has been good to me, I nearly said out loud, as I
   weaved my way north on Interstate 5 toward Del Mar.  
