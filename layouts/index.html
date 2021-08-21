@@ -21,7 +21,7 @@
     </div>
 </section>
 <section id="the_book" class="bg-ocre">
-    <div class="max-w-5xl mx-auto px-4 lg:px-0 py-20 md:pt-48">
+    <div class="max-w-5xl mx-auto px-4 lg:px-0 pt-20 md:pt-48">
 
         <div class="grid grid-cols-12 md:gap-8 lg:gap-12">
 
@@ -46,18 +46,18 @@
     </div>
 </section>
 <section id="free_chapter" class="bg-ocre">
-    <div class="max-w-5xl mx-auto px-4 lg:px-0 py-20">
+    <div class="max-w-5xl mx-auto px-4 lg:px-0 py-20 md:py-20">
 
         <div class="grid grid-cols-12 md:gap-8 lg:gap-12">
 
-            <div class="col-span-12 md:col-span-6">
+            <div class="col-span-12 md:col-span-6 order-2 md:order-1">
                 <img class="lazyload mb-6 md:mb-0 w-full shadow-md" alt="Train Wreck - A Book by Richard Phelps"
                     data-aos="fade" data-aos-duration="800" width="474px" height="526px" 
                     src="{{ $.Site.BaseURL }}{{ .Params.free_chapter_img }}"
                     />
             </div>
 
-            <div class="col-span-12 md:col-span-6 flex flex-col justify-center items-start">
+            <div class="col-span-12 md:col-span-6 mb-6 md:mb-0 flex flex-col justify-center items-start order-1 md:order-2">
                 <h2 class="text-xs p-2 tracking-wider bg-yellow-400 shadow-md rounded-sm text-primary">Excerpts</h2>
                 <div class="my-4">
                     <p class="about_styling my-8">{{ .Params.free_chapter_desc | safeHTML }}</p>
