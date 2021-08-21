@@ -85,6 +85,6 @@ url = "#free_chapter"
 weight = "4"
 
 [[menu.main]]
-name = "Purchase"
-url = "https://www.amazon.com/gp/aw/d/B09CXSFKMH/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr="
+name = "Purchase - Available Shortly"
+url = "#"
 weight = "5"
