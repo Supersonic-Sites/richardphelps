@@ -16,7 +16,7 @@ videoOn = false
 description = "Lorem ipsum"
 
 [params.schema]
-ogimage = "/img/supersonicsites-logo-final-750x450-1.png"
+ogimage = "/img/fast-race-horse-square-min-1-.jpg"
 logofooter = "/img/supersonicsites-logo-final-750x450-1.png"
 city = "#"
 logo = "/img/supersonicsites-1.png"
@@ -86,5 +86,5 @@ weight = "4"
 
 [[menu.main]]
 name = "Purchase"
-url = "#purchase"
+url = "https://www.amazon.com/gp/aw/d/B09CXSFKMH/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr="
 weight = "5"

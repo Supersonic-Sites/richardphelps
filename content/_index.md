@@ -1,10 +1,10 @@
 ---
 title: Train Wreck - A Book By Richard Phelps
 description: Richard Phelp - Author of Train Wreck®, a novel about Love and
-  Deceit among the Souther California Elite.
-heroimg: /img/train-wreck-cover.png
+  Deceit among the Southern California Elite.
+heroimg: /img/trainwreck_cover.webp
 hero_title: Train Wreck
-hero_desc: A novel about Love and Deceit among the Souther California Elite.
+hero_desc: A book about Love and Deceit among the Southern California Elite.
 hero_cta: Get Free Excerpt
 about_desc: >-
   Richard Phelps hails from San Diego, California, and has also lived in Europe,
@@ -18,7 +18,7 @@ about_desc: >-
   <br><br>
 
   He also has a strong business background, having held several executive management roles in both large companies and startups during a successful 20+ year career in telecommunications. Richard holds an M.B.A. from Thunderbird School of International Management.  His first book is a memoir of an amazing life lived on the California Coast in and around the San Diego area.
-aboutimg: img/about-richard-phelps.png
+aboutimg: /img/RichardPhelps-Headshot.png
 book_desc: Most of this story takes place in the communities along the coast
   just north of San Diego. “North County,” as it’s called… is known for its
   affluent residents, especially in the beach communities of Del Mar, Solana
@@ -28,7 +28,7 @@ book_desc: Most of this story takes place in the communities along the coast
   dream here, or have much of an imagination, because that which you dream or
   imagine is already being played out by somebody in real life. It’s a reality
   show of sorts, of which I have become a part.
-bookimg: /img/fast-race-horse-square-min.jpg
+bookimg: /img/richardphelps-book-main-image-min-1-.jpg
 free_chapter_desc: >
   "<strong>Match.com</strong> has been good to me, I nearly said out loud, as I
   weaved my way north on Interstate 5 toward Del Mar.  
@@ -47,11 +47,11 @@ free_chapter_desc: >
 
   I’ve heard that men do some quite dishonest things as well, especially when it comes to pictures, age and well, wealth.  This was Southern California after all, where as a man, you flaunted your wealth even if it didn’t exist.  And if you were actually wealthy, it pretty much gave you license to behave however you wanted and to ignore the collateral damage along the way.  
 
-  <br><br>
+  <br></br>
 
   <i>How’s that for cynicism?</i>
 
   It’s actually an awesome place to live, especially for the weather, which on this mid-February day had been a typical sunny “winter” day, with even more brilliant blue skies than in summer.  
-free_chapter_img: /img/del-mar-beach-sqaure-min.jpg
+free_chapter_img: /img/backcover.jpg
 free_chapter_cta: Get Free Excerpt
 ---
