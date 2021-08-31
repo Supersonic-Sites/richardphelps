@@ -85,6 +85,6 @@ url = "#free_chapter"
 weight = "4"
 
 [[menu.main]]
-name = "Purchase - Available Shortly"
+name = "Purchase Book"
 url = "#"
 weight = "5"
