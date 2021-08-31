@@ -86,5 +86,5 @@ weight = "4"
 
 [[menu.main]]
 name = "Purchase Book"
-url = "#"
+url = "https://smile.amazon.com/gp/aw/d/B09CRY436Q/ref=tmm_pap_swatch_0?ie=UTF8&qid=1630263267&sr=8-1"
 weight = "5"
